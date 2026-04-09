@@ -1,0 +1,37 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - README.md
+      - .github/workflows/snake.yml
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: himanshkukreja
+          outputs: |
+            dist/github-snake.svg?palette=github-light
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish snake animation
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
