@@ -18,6 +18,34 @@
 
 ### Building AI-powered testing infrastructure, remote mobile testing platforms, and low-latency distributed systems.
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshkukreja/himanshkukreja/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshkukreja/himanshkukreja/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/himanshkukreja/himanshkukreja/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=himanshkukreja&theme=tokyonight&hide_border=true"
+    alt="GitHub stats for Himanshu Kukreja"
+  />
+  <br/>
+  <img
+    src="https://streak-stats.demolab.com/?user=himanshkukreja&theme=tokyonight&hide_border=true"
+    alt="GitHub streak stats for Himanshu Kukreja"
+  />
+</p>
+
+---
+
 I like working on hard engineering problems that sit at the intersection of automation, developer tooling, and infrastructure.
 My sweet spot is building systems that help teams ship faster: remote device control, scalable testing workflows, real-time streaming, and backend platforms that stay reliable under pressure.
 
@@ -93,34 +121,6 @@ Minimal anonymous markdown publishing with a sharp focus on speed and simplicity
 - No login required
 - Instant shareable links
 - Peer-to-peer transfer via WebRTC
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://ghstats.dev/api/card?username=himanshkukreja&theme=tokyonight&hide_border=true"
-    alt="GitHub stats for Himanshu Kukreja"
-  />
-  <br/>
-  <img
-    src="https://streak-stats.demolab.com/?user=himanshkukreja&theme=tokyonight&hide_border=true"
-    alt="GitHub streak stats for Himanshu Kukreja"
-  />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshkukreja/himanshkukreja/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshkukreja/himanshkukreja/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/himanshkukreja/himanshkukreja/output/github-snake.svg" />
-  </picture>
-</p>
 
 ---
 
